@@ -26,10 +26,10 @@ def get_neighbors_of(cell):
     x = cell[0]
     y = cell[1]
     neighbors = set()
-    for i in range(x-1,x+2):
-        for j in range(y-1,y+2):
-            if ( i, j) != cell:
-                neighbors.add((i,j))
+    for i in range(x-1, x+2):
+        for j in range(y-1, y+2):
+            if (i, j) != cell:
+                neighbors.add((i, j))
 
     return neighbors
 
