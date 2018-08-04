@@ -1,6 +1,6 @@
 # Game of Life
 
-[![CircleCI](https://circleci.com/gh/prontotools/game-of-life.svg?style=svg&circle-token=94fb1e316965759160242fd000852933c2e31cf6)](https://circleci.com/gh/prontotools/game-of-life)
+[![CircleCI](https://circleci.com/gh/prontotools/game-of-life-01.svg?style=svg&circle-token=653d544e68ff94dc899af30bcb006268d1e9ef6b)](https://circleci.com/gh/prontotools/game-of-life-01)
 
 * A live cell with fewer than two live neighbors dies.
 * A live cell with two or three neighbors lives on to the next time step.
